@@ -1,0 +1,17 @@
+{
+	"config": {
+		"title": "OfflineSTT",
+		"step": {			
+			"user": {
+				"title": "OfflineSTT",
+				"description": "STT服务器IP地址",
+				"data": {
+					"IPAddr" : "IPAddr"
+				}
+			}
+		},
+        "abort": {
+            "single_instance": "仅允许添加一个实例"
+		}
+    }
+}

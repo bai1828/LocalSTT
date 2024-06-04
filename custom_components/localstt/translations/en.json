@@ -1,0 +1,17 @@
+{
+	"config": {
+		"title": "OfflineSTT",
+		"step": {			
+			"user": {
+				"title": "OfflineSTT",
+				"description": "STT server IP address",
+				"data": {
+					"IPAddr" : "IPAddr"
+				}
+			}
+		},
+        "abort": {
+            "single_instance": "Only one instance allowed"
+		}
+    }
+}
